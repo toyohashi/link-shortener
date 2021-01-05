@@ -1,0 +1,22 @@
+.run-button-area{
+   margin:auto;
+   width: 100%;
+   padding-top: 10px;
+   padding-bottom: 10px;
+}
+
+.run-button-layout{
+   width: 100px;
+   height: 50px;
+   box-sizing: border-box;
+   background-color:white;
+   border: 6px solid  #545454;
+   color: #545454;
+   font-family:Tahoma, sans-serif;
+   font-weight: bold;
+}
+
+.run-button-icon{
+   padding-right: 5px; 
+   padding-bottom: 3px;
+}

@@ -1,0 +1,18 @@
+.display-area{
+   width: 100%;
+   margin-top: 40px;
+   margin-bottom: 40px;
+   height: 100%;
+}
+
+.display-text-area{
+   padding: 20px 60px 20px 20px;
+   font-size: 20px;
+   background-color:white;
+   height: 97%;
+   width: 97%;
+   border: 1px solid transparent !important;
+   resize: none;
+   color:#04345C;
+   font-family:Tahoma, sans-serif;
+}
